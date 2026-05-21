@@ -65,11 +65,14 @@ frida --version
 python -c "import frida; print(frida.__version__)"
 ```
 
-![Frida version](https://github.com/user-attachments/assets/876ced7e-0dce-4e76-babe-d90a9c6ef12a)
+<img width="1074" height="169" alt="a" src="https://github.com/user-attachments/assets/37b8437f-6562-4578-b995-b6b3b1a5c429" />
+
 
 *Capture 1 : frida --version → 17.9.6*
 
-![Objection help](https://github.com/user-attachments/assets/02a21a90-ece5-4246-ac50-68f2303ee468)
+
+<img width="567" height="332" alt="b" src="https://github.com/user-attachments/assets/f1d7743c-506b-4272-b763-a2bc02fd12bb" />
+
 
 *Capture 2 : objection --help*
 
